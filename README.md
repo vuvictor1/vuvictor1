@@ -1,9 +1,7 @@
-### Hi! 👋 My name is Victor V. Vu.
+### Hi! 👋 My name is Victor Vu.
 
-<!--
-**vuvictor1/vuvictor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd year computer science student. 
 
-Here are some ideas to get you started:
-
-
--->
+Contact:
+VuVictor@csu.fullerton.edu
+https://vuvictor.up.railway.app/
