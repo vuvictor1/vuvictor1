@@ -1,7 +1,5 @@
 ### Hi! 👋 My name is Victor Vu.
 
-I'm a 3rd year computer science student. 
+I'm a 3rd year computer science student with big ambitions for software engineering and passion for code.
 
-Contact:
-VuVictor@csu.fullerton.edu
-https://vuvictor.up.railway.app/
+Contact: VuVictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
