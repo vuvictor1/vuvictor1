@@ -1,4 +1,4 @@
-### Hi! 👋 My name is Victor V. Vu.
+### Hi! 👋 My name is Victor.
 
 I'm a computer science student with interest in software engineering and game development.
 
