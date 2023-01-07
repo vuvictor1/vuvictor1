@@ -1,5 +1,5 @@
-### Hi! 👋 My name is Victor Vu.
+### Hi! 👋 My name is Victor V. Vu.
 
-I'm a computer science student with interest in software engineering.
+I'm a computer science student with interest in software engineering and game development.
 
-Contact: VuVictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
+Contact me: VuVictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
