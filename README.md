@@ -6,5 +6,3 @@ Contact me: VuVictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vuvictor1&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vuvictor1&layout=compact)](https://github.com/vuvictor1/github-readme-stats)
-
