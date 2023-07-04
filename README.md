@@ -1,6 +1,6 @@
 ### Hi! My name is Victor.
 
-I'm a Computer Science student with interest in software engineering and game development.
+I'm a computer science student with interest in software engineering and game development.
 
 Contact me at: VuVictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
 
