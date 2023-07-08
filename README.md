@@ -2,7 +2,7 @@
 
 I'm a multilingual programmer with a passion for engineering practical and concise solutions. Motivated to constantly improve, I strive to develop a unique and versatile skill set. 
 
-My interests lie in machine learning and game development. 
+I have interest in machine learning and game development. 
 
 Contact me at: vuvictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
 
