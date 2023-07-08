@@ -6,5 +6,7 @@ My interests lie in machine learning and game development.
 
 Contact me at: vuvictor@csu.fullerton.edu or https://vuvictor.up.railway.app/
 
+Linkedin: https://www.linkedin.com/in/victor-v-a9236b239/
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vuvictor1&theme=radical)
 
