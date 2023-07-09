@@ -63,7 +63,6 @@
   <div>
     <h3 align="left">GitHub Stats:</h3>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuvictor1&show_icons=true&locale=en&layout=compact" alt="vuvictor1" /></p>
-
-    ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vuvictor1&theme=radical)
   </div>
 </div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vuvictor1&theme=radical)
