@@ -1,5 +1,5 @@
-<h1 align="center">Hi, my name is Victor.</h1>
-<h3 align="center">I'm a multilingual programmer with a passion for engineering practical and concise solutions. Motivated to constantly improve, I strive to develop a unique and versatile skill set.</h3>
+<h1 align="center">Greetings, my name is Victor.</h1>
+<h3 align="center">I'm multilingual programmer with a passion for writing solutions, a capable leader with experience in higher education and a highly motivated first generation student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvictor1&label=Profile%20views&color=0e75b6&style=flat" alt="vuvictor1" /> </p>
 
