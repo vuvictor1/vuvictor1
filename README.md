@@ -1,5 +1,5 @@
 <h1 align="center">Hi. It's nice to meet you, my name is Victor.</h1>
-<h3 align="center">I'm trilingual programmer with a passion for writing solutions, a capable leader with experience in higher education and a highly motivated first generation student. Outside of my Computer Science studies at CSUF, I enjoy beatboxing, aquariums, history and learning asian languages. For more, please check out my website below.</h3>
+<h3 align="center">I'm trilingual programmer with a passion for writing solutions, a capable leader with experience in higher education and a highly motivated first generation student. Outside of my Computer Science studies at CSUF, I enjoy beatboxing, aquariums, history and learning asian languages. For more information, please check out my website below.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvictor1&label=Profile%20views&color=0e75b6&style=flat" alt="vuvictor1" /> </p>
 
