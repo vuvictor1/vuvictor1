@@ -15,8 +15,8 @@
 </table>
 
 <p align="center">
-  - 👨‍💻 Website: [https://vuvictor.up.railway.app/](https://vuvictor.up.railway.app/)<br>
-  - 📫 Email: **vuvictor.csu.fullerton.edu**<br>
+  - 👨‍💻 Website: https://vuvictor.up.railway.app<br>
+  - 📫 Email: <a href="mailto:vuvictor.csu.fullerton.edu">vuvictor.csu.fullerton.edu</a><br>
   - ⚡ Interested in **Artificial intelligence, Machine Learning, Software Engineering and Game Development**
 </p>
 
