@@ -8,16 +8,15 @@
     </td>
     <td align="center">
       <p align="center">
-        <a href="https://www.linkedin.com/in/victor-v-vu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-v-vu/" height="30" width="40" /></a>
+        Connect with me on: <a href="https://www.linkedin.com/in/victor-v-vu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-v-vu/" height="30" width="40" /></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  - 👨‍💻 Website: https://vuvictor.up.railway.app<br>
-  - 📫 Email: <a href="mailto:vuvictor.csu.fullerton.edu">vuvictor.csu.fullerton.edu</a><br>
-  - ⚡ Interested in **Artificial intelligence, Machine Learning, Software Engineering and Game Development**
+  👨‍💻 Website: https://vuvictor.up.railway.app | 📫 Email: <a href="mailto:vuvictor.csu.fullerton.edu">vuvictor.csu.fullerton.edu</a><br>
+  ⚡ Interested in **Artificial intelligence, Machine Learning, Software Engineering and Game Development**
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
