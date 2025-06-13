@@ -1,5 +1,5 @@
 <h1 align="center">Hi. Nice to meet you, I'm Victor.</h1>
-<h3 align="center">I'm a trilingual speaking programmer with a passion for writing solutions, a capable leader with experience in higher education, and a highly motivated 1st generation student. Outside of my Computer Science studies, I enjoy beatboxing, aquariums, history and learning foreign languages. For more information, please check out my website below.</h3>
+<h3 align="center">I'm a trilingual speaking programmer with a passion for writing solutions, a capable leader with experience in higher education, and a highly motivated 1st generation student. Outside of my Computer Science studies, I enjoy beatboxing, aquariums, history, and learning foreign languages. For more information, please check out my website below.</h3>
 
 <table align="center">
   <tr>
@@ -16,7 +16,7 @@
 
 <p align="center">
   👨‍💻 Website: https://vuvictor.up.railway.app | 📫 Email: <a href="mailto:vuvictor.csu.fullerton.edu">vuvictor.csu.fullerton.edu</a><br>
-  ⚡ Interested in **Artificial intelligence, Machine Learning, Software Engineering and Game Development**
+  ⚡ Interested in **Artificial intelligence, Embedded Systems, Software Engineering, and Game Development**
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
