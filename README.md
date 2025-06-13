@@ -7,15 +7,9 @@ For more information, please check out my website below.
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-v-vu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://vuvictor.up.railway.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome" alt="Portfolio" />
-  </a>
-  <a href="mailto:vuvictor@csu.fullerton.edu">
-    <img src="https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/victor-v-vu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://vuvictor.up.railway.app" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:vuvictor@csu.fullerton.edu"><img src="https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail" alt="Email" /></a>
 </p>
 
 <p align="center">
