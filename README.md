@@ -1,7 +1,7 @@
 <h1 align="center">Hi. Nice to meet you, I'm Victor.</h1>
 
 <h3 align="center">
-I'm a trilingual programmer (English, Vietnamese, and Japanese) with a passion for writing solutions, a capable leader with experience in higher education, and a highly motivated 1st generation student.  
+I'm a trilingual software engineer (English, Vietnamese, and Japanese) with a passion for writing solutions, a capable leader with experience in higher education, and a highly motivated 1st generation grad student.  
 Outside of my Computer Science studies, I enjoy beatboxing, aquariums, history, and learning foreign languages.  
 For more information, please check out my website below.
 </h3>
