@@ -4,18 +4,14 @@
 M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and embedded technologies.
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-v-vu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://vuvictor.up.railway.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="mailto:vuvictor@csu.fullerton.edu">
-    <img src="https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail" alt="Email" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vuvictor1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-v-vu/)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://vuvictor.up.railway.app)
+[![Email](https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail)](mailto:vuvictor@csu.fullerton.edu)
+<img src="https://komarev.com/ghpvc/?username=vuvictor1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -51,4 +47,4 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 ---
 
 ### 🎤 Fun Fact
-When I'm not coding I beatbox, manage aquariums, and study foreign languages.
+When I'm not coding, I beatbox, manage aquariums, and study foreign languages.
