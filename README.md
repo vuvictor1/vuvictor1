@@ -26,8 +26,10 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 ---
 
 ### 💡 Featured Projects
-- 🐠 [Aquatic EcoSphere System](https://github.com/vuvictor1/AquaticEcoSphere): Deployed underwater sensors to monitor water toxicity, forecasted risk using a Random Forest model (99%+ accuracy), and visualized real-time data via a cross-platform dashboard. (Finalist at Engineering Expo 2025)
-- 🧭 [Smart-Navi](https://github.com/vuvictor1/SmartNavi): Pathfinding system using NetworkX and Dijkstra’s algorithm with UI for optimal accessibility routing.
+- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**): 
+  Built sensor-based toxicity monitoring with a 99% accurate Random Forest model. Finalist @ Engineering Expo 2025.
+- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**): 
+  Devised BFS/DFS + Dijkstra's with a 300-node weighted graph for accessibility routing.
 
 ---
 
@@ -46,5 +48,6 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 
 ---
 
-### 🎤 Fun Fact
-When I'm not coding, I beatbox, manage aquariums, and study foreign languages.
+### 🎯 Outside the Code
+- 🧠 Beatboxing, history, and foreign language enthusiast 
+- 🌱 Aquarium hobbyist exploring chemistry and environmental systems
