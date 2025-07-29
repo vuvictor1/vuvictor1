@@ -17,19 +17,21 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 
 ### 🚀 About Me
 
-- 🎓 Pursuing M.S. in Computer Science @ CSUF | Focus: Applied AI, Embedded Systems, and System Integration
-- 💻 Built full-stack IoT systems (e.g., Aquatic EcoSphere) and cross-platform mobile apps  
-- 🤖 Currently working on integrating LLMs and automation pipelines into real-world products  
-- 📦 Experienced with CI/CD, .NET MAUI, Random Forests, Blazor Hybrid, and Raspberry Pi  
-- 🌱 Trilingual communicator - English, Vietnamese, and Japanese 
+- 🎓 M.S. in Computer Science @ CSUF | Focus: Applied AI, Embedded Systems, and System Integration  
+- 🔧 Project Lead for IoT and real-time systems (e.g., Aquatic EcoSphere, Smart-Navi)  
+- 🤖 Building automation pipelines with LLMs for real-world deployment  
+- ⚙️ Experienced in CI/CD, .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi  
+- 🌍 Trilingual: English 🇺🇸 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
 
 ---
 
 ### 💡 Featured Projects
-- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**): 
-  Built sensor-based toxicity monitoring with a 99% accurate Random Forest model. Finalist @ Engineering Expo 2025.
-- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**): 
-  Devised BFS/DFS + Dijkstra's with a 300-node weighted graph for accessibility routing.
+
+- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**):  
+  Designed a full-stack toxicity monitoring system with underwater sensors and a 99% accurate ML model. Finalist @ Engineering Expo 2025.
+
+- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**):  
+  Created accessibility-focused navigation with Dijkstra's + DFS/BFS over 300-node weighted graphs.
 
 ---
 
@@ -49,5 +51,8 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 ---
 
 ### 🎯 Outside the Code
-- 🧠 Beatboxing, history, and foreign language enthusiast 
-- 🌱 Aquarium hobbyist exploring chemistry and environmental systems
+
+- 🧠 Beatboxer, history geek, and foreign language enthusiast
+- 🌱 Aquarium hobbyist exploring biochemistry and environmental modeling  
+
+---
