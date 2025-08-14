@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Victor Vu 👋</h1>
 
 <h3 align="center">
-M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and embedded technologies.
+M.S. in CS student, 1st-gen grad, & Software Engineer specializing in AI-driven systems/embedded technology.
 </h3>
 
 <div align="center">
@@ -17,10 +17,10 @@ M.S. in CS student, 1st-gen grad, and SWE specializing in AI-driven systems and 
 
 ### 🚀 About Me
 
-- 🎓 M.S. in Computer Science @ CSUF | Focus: Applied AI, Embedded Systems, and System Integration  
-- 🔧 Project Lead for IoT and real-time systems (e.g., Aquatic EcoSphere, Smart-Navi)  
-- 🤖 Building automation pipelines with LLMs for real-world deployment  
-- ⚙️ Experienced in CI/CD, .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi  
+- 🎓 M.S. in Computer Science at Cal State Fullerton | Focus: Applied AI, Embedded Systems, and System Integration  
+- 🔧 Project lead for AI + IoT solutions in environmental monitoring, navigation systems, and cross-platform app deployment
+- 🤖 Automating real-world workflows with LLM-powered pipelines, CI/CD, and edge computing
+- ⚙️ Experienced in .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi integrations
 - 🌍 Trilingual: English 🇺🇸 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
 
 ---
