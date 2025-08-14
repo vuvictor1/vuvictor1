@@ -28,10 +28,10 @@ M.S. in CS student, 1st-gen, & Software Engineer specializing in AI-driven syste
 ### 💡 Featured Projects
 
 - 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**):  
-  Designed a full-stack toxicity monitoring system with underwater sensors and a 99% accurate ML model. Finalist @ Engineering Expo 2025.
+  Designed a full-stack toxicity monitoring tool with underwater sensors and a 99% accurate ML model. Finalist at the ECS Expo 2025.
 
 - 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**):  
-  Created accessibility-focused navigation with Dijkstra's + DFS/BFS over 300-node weighted graphs.
+  Created an accessibility-focused navigation system powered by Dijkstra's, DFS, and BFS algorithms over a 300-node weighted graph.
 
 ---
 
