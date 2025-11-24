@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Victor Vu 👋</h1>
+<h1 align="center">Hi, I'm Victor Vu 👋</h1>
 
 <h3 align="center">
-M.S. in CS student, 1st-gen, & Software Engineer specializing in AI-driven systems/embedded technology.
+M.S. in CS student, 1st-Gen, & Software Engineer specializing in AI-driven systems/embedded technology.
 </h3>
 
 <div align="center">
