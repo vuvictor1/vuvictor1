@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor Vu 👋</h1>
 
 <h3 align="center">
-M.S. in CS student, 1st-Gen, & Software Engineer specializing in AI-driven systems/embedded technology.
+1st-Gen M.S. CS student & Software Engineer specializing in AI-Driven Systems/Embedded Technologies.
 </h3>
 
 <div align="center">
@@ -17,10 +17,10 @@ M.S. in CS student, 1st-Gen, & Software Engineer specializing in AI-driven syste
 
 ### 🚀 About Me
 
-- 🎓 M.S. in Computer Science at Cal State Fullerton | Focus: Applied AI, Embedded Systems, and System Integration  
+- 🎓 M.S. in Computer Science at Cal State University, Fullerton | Focus: Applied AI and Embedded Systems Integration 
 - 🔧 Project lead for AI + IoT solutions in environmental monitoring, navigation systems, and cross-platform app deployment
 - 🤖 Automating real-world workflows with LLM-powered pipelines, CI/CD, and edge computing
-- ⚙️ Experienced in .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi integrations
+- ⚙️ Experienced in .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi solutions
 - 🌍 Trilingual: English 🇺🇸 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
 
 ---
@@ -28,7 +28,7 @@ M.S. in CS student, 1st-Gen, & Software Engineer specializing in AI-driven syste
 ### 💡 Featured Projects
 
 - 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**):  
-  Designed a full-stack toxicity monitoring tool with underwater sensors and a 99% accurate ML model. Finalist at the ECS Expo 2025.
+  Designed a full-stack toxicity monitoring tool with underwater sensors and a ~96% accurate ML model. Finalist at the ECS Expo 2025.
 
 - 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**):  
   Created an accessibility-focused navigation system powered by Dijkstra's, DFS, and BFS algorithms over a 300-node weighted graph.
