@@ -43,7 +43,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vuvictor1&show_icons=true&theme=radical" alt="Victor's GitHub Stats" width="400px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vuvictor1&layout=compact&theme=radical" alt="Top Languages" width="320px" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vuvictor1&layout=compact&theme=radical" alt="Top Languages" width="320px" />
     </td>
   </tr>
 </table>
