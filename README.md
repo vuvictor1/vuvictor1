@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-v-vu/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://vuvictor.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail)](mailto:vuvictor@csu.fullerton.edu)
-<img src="https://komarev.com/ghpvc/?username=vuvictor1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -28,7 +27,7 @@
 ### 💡 Featured Projects
 
 - 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere):  
-  Full-stack IoT monitor with 96% accurate ML for toxicity prediction. *Finalist at ECS Expo 2025.*
+  Full-stack IoT monitor with 96% accurate ML for toxicity prediction. Finalist at ECS Expo 2025.
 
 - 🦀 [**Banker's Algorithm**](https://github.com/vuvictor1/Bankers-Algorithm):  
   Rust-based simulation for deadlock prevention and resource allocation, leveraging Rust's ownership model for memory safety.
