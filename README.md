@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Victor Vu 👋</h1>
+<h1 align="center">Hi, I'm Victor. 👋</h1>
 
 <h3 align="center">
-1st-Gen MSCS Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and AI.
+M.S. in Computer Science Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and AI.
 </h3>
 
 <div align="center">
@@ -20,17 +20,6 @@
 - ⚙️ **Tech Stack:** C/C++, Rust, Python, C#, JavaScript, .NET MAUI, and CI/CD automation.
 - 🌍 **Trilingual:** English (Native) | Vietnamese (Fluent - Seal of Biliteracy) | Japanese (Advanced - Studying towards JLPT N2).
 
-### 💡 Featured Projects
-
-- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere):  
-  Full-stack IoT monitor with 96% accurate ML for toxicity prediction. Finalist at ECS Expo 2025.
-
-- 🦀 [**Banker's Algorithm**](https://github.com/vuvictor1/Bankers-Algorithm):  
-  Rust-based simulation for deadlock prevention and resource allocation, leveraging Rust's ownership model for memory safety.
-
-- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi):  
-  Accessibility-focused navigation system using weighted graph algorithms (Dijkstra's, BFS, DFS).
-
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -46,5 +35,5 @@
 
 ### 🎯 Outside the Code
 
+- 🌱 Aquarium hobbyist exploring biochemistry and environmental modeling
 - 🧠 Beatboxer, history geek, and foreign language enthusiast
-- 🌱 Aquarium hobbyist exploring biochemistry and environmental modeling  
