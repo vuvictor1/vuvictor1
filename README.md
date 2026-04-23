@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor Vu 👋</h1>
 
 <h3 align="center">
-1st-Gen MSCS Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and Embedded AI.
+1st-Gen MSCS Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and AI.
 </h3>
 
 <div align="center">
@@ -12,17 +12,13 @@
 
 </div>
 
----
-
 ### 🚀 About Me
 
 - 🎓 **MSCS @ Cal State Fullerton** | Focus: Cybersecurity & Secure Embedded Systems.
-- 🛡️ **Cyber Forensic Examiner** in an NSA-designated program (CAE-CD), specializing in disk/email forensics and NIST-aligned audits.
+- 🛡️ **Cyber Forensic Examiner** in an NSA-designated program, specializing in disk/email forensics and NIST-aligned audits.
 - 🔧 **Project Lead** for interdisciplinary IoT & AI solutions, with a focus on hardware-level integration and sensor networks.
-- ⚙️ **Tech Stack:** C/C++, Rust, Python, .NET MAUI, and CI/CD automation.
-- 🌍 **Trilingual:** English 🇺🇸 (Native) | Vietnamese 🇻🇳 (Fluent - Seal of Biliteracy) | Japanese 🇯🇵 (Advanced - Studying towards JLPT N2).
-
----
+- ⚙️ **Tech Stack:** C/C++, Rust, Python, C#, JavaScript, .NET MAUI, and CI/CD automation.
+- 🌍 **Trilingual:** English (Native) | Vietnamese (Fluent - Seal of Biliteracy) | Japanese (Advanced - Studying towards JLPT N2).
 
 ### 💡 Featured Projects
 
@@ -34,8 +30,6 @@
 
 - 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi):  
   Accessibility-focused navigation system using weighted graph algorithms (Dijkstra's, BFS, DFS).
-
----
 
 ### 📊 GitHub Stats
 
@@ -49,8 +43,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🎯 Outside the Code
 
