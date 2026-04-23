@@ -56,5 +56,3 @@
 
 - 🧠 Beatboxer, history geek, and foreign language enthusiast
 - 🌱 Aquarium hobbyist exploring biochemistry and environmental modeling  
-
----
