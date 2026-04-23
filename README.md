@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor Vu 👋</h1>
 
 <h3 align="center">
-1st-Gen M.S. CS student & Software Engineer specializing in AI-Driven Systems/Embedded Technologies.
+1st-Gen MSCS Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and Embedded AI.
 </h3>
 
 <div align="center">
@@ -17,21 +17,24 @@
 
 ### 🚀 About Me
 
-- 🎓 M.S. in Computer Science at Cal State University, Fullerton | Focus: Applied AI and Embedded Systems Integration 
-- 🔧 Project lead for AI + IoT solutions in environmental monitoring, navigation systems, and cross-platform app deployment
-- 🤖 Automating real-world workflows with LLM-powered pipelines, CI/CD, and edge computing
-- ⚙️ Experienced in .NET MAUI, Blazor Hybrid, Random Forests, and Raspberry Pi solutions
-- 🌍 Trilingual: English 🇺🇸 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
+- 🎓 **MSCS @ Cal State Fullerton** | Focus: Cybersecurity & Secure Embedded Systems.
+- 🛡️ **Cyber Forensic Examiner** in an NSA-designated program (CAE-CD), specializing in disk/email forensics and NIST-aligned audits.
+- 🔧 **Project Lead** for interdisciplinary IoT & AI solutions, with a focus on hardware-level integration and sensor networks.
+- ⚙️ **Tech Stack:** C/C++, Rust, Python, .NET MAUI, and CI/CD automation.
+- 🌍 **Trilingual:** English 🇺🇸 (Native) | Vietnamese 🇻🇳 (Fluent - Seal of Biliteracy) | Japanese 🇯🇵 (Advanced - Studying towards JLPT N2).
 
 ---
 
 ### 💡 Featured Projects
 
-- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere) (**Team Lead**):  
-  Designed a full-stack toxicity monitoring tool with underwater sensors and a ~96% accurate ML model. Finalist at the ECS Expo 2025.
+- 🐠 [**Aquatic EcoSphere System**](https://github.com/vuvictor1/AquaticEcoSphere):  
+  Full-stack IoT monitor with 96% accurate ML for toxicity prediction. *Finalist at ECS Expo 2025.*
 
-- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi) (**Lead Algorithm Engineer**):  
-  Created an accessibility-focused navigation system powered by Dijkstra's, DFS, and BFS algorithms over a 300-node weighted graph.
+- 🦀 [**Banker's Algorithm**](https://github.com/vuvictor1/Bankers-Algorithm):  
+  Rust-based simulation for deadlock prevention and resource allocation, leveraging Rust's ownership model for memory safety.
+
+- 🧭 [**Smart-Navi**](https://github.com/vuvictor1/SmartNavi):  
+  Accessibility-focused navigation system using weighted graph algorithms (Dijkstra's, BFS, DFS).
 
 ---
 
