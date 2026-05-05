@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor. 👋</h1>
 
 <h3 align="center">
-M.S. in Computer Science Student & Software Engineer specializing in Secure Systems, Cyber Forensics, and AI.
+M.S. in Computer Science student and software engineer focused on secure systems, embedded software, digital forensics, and applied AI.
 </h3>
 
 <div align="center">
@@ -14,11 +14,11 @@ M.S. in Computer Science Student & Software Engineer specializing in Secure Syst
 
 ### 🚀 About Me
 
-- 🎓 **MSCS @ Cal State Fullerton** | Focus: Cybersecurity & Secure Embedded Systems.
-- 🛡️ **Cyber Forensic Examiner** in an NSA-designated program, specializing in disk/email forensics and NIST-aligned audits.
-- 🔧 **Project Lead** for interdisciplinary IoT & AI solutions, with a focus on hardware-level integration and sensor networks.
-- ⚙️ **Tech Stack:** C/C++, Rust, Python, C#, JavaScript, .NET MAUI, and CI/CD automation.
-- 🌍 **Trilingual:** English (Native) | Vietnamese (Fluent - Seal of Biliteracy) | Japanese (Advanced - Studying towards JLPT N2).
+- 🎓 **MSCS @ Cal State Fullerton** | Emphasis: Cybersecurity & Embedded Systems.
+- 🛡️ **Graduate Cyber Forensic Analyst** in an NSA-designated CAE-CD program; focused on disk/email forensics, chain of custody, and NIST/ISO 27037-aligned workflows.
+- 🔧 **Project Lead** for IoT, AI, and cross-platform systems with a focus on hardware/software integration and deployment reliability.
+- ⚙️ **Tech Stack:** C/C++, Rust, Python, C#, Linux, .NET MAUI, Git, and CI/CD.
+- 🌍 **Trilingual:** English (Native) | Vietnamese (Fluent - Seal of Biliteracy) | Japanese (Advanced - studying toward JLPT N2).
 
 ### 📊 GitHub Stats
 
@@ -33,7 +33,6 @@ M.S. in Computer Science Student & Software Engineer specializing in Secure Syst
   </tr>
 </table>
 
-### 🎯 Outside the Code
+### 🌱 Outside the Code
 
-- 🌱 Aquarium hobbyist exploring biochemistry and environmental modeling
-- 🧠 Beatboxer, history geek, and foreign language enthusiast
+- Aquatic biology, chemistry, beatboxing, history, and languages.
