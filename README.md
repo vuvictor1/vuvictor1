@@ -7,7 +7,6 @@ M.S. in Computer Science student and software engineer focused on secure systems
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Vu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-v-vu/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://vuvictor.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-vuvictor@csu.fullerton.edu-red?style=flat&logo=gmail)](mailto:vuvictor@csu.fullerton.edu)
 
 </div>
